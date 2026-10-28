@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0239-sliding-window-maximum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
@@ -51,6 +52,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
