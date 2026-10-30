@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0239-sliding-window-maximum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
