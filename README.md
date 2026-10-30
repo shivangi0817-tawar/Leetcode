@@ -10,20 +10,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0239-sliding-window-maximum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Queue
 |  |
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
