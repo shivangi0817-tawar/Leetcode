@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0724-find-pivot-index) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1710-maximum-units-on-a-truck](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
 |  |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
