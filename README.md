@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0242-valid-anagram) |
 | [1392-longest-happy-prefix](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivangi0817-tawar/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivangi0817-tawar/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
