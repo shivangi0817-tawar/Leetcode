@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
