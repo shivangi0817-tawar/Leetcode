@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
