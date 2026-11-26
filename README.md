@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi0817-tawar/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivangi0817-tawar/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivangi0817-tawar/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/shivangi0817-tawar/Leetcode/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
